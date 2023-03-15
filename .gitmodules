@@ -8,3 +8,8 @@
 	url = https://github.com/ehrlinger/ggrandomforests
 	shallow = true
 	registered = true
+[submodule "l2boost"]
+	path = l2boost
+	url = https://github.com/ehrlinger/l2boost
+	shallow = true
+	registered = true

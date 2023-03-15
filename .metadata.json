@@ -2,5 +2,9 @@
   {
     "package": "ggRandomForests",
     "oncran": true
+  },
+  {
+    "package": "l2boost",
+    "oncran": true
   }
 ]
