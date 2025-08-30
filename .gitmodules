@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ggRandomForests"]
-	path = ggRandomForests
-	url = https://github.com/ehrlinger/ggrandomforests
 [submodule "l2boost"]
 	path = l2boost
 	url = https://github.com/ehrlinger/l2boost
