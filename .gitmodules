@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "TemporalHazard"]
+	path = TemporalHazard
+	url = https://github.com/ehrlinger/temporal_hazard
 [submodule "ggRandomForests"]
 	path = ggRandomForests
 	url = https://github.com/ehrlinger/ggrandomforests
