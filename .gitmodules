@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "TemporalHazard"]
 	path = TemporalHazard
-	url = https://github.com/ehrlinger/temporal_hazard
+	url = https://github.com/ehrlinger/temporalhazard
 [submodule "ggRandomForests"]
 	path = ggRandomForests
 	url = https://github.com/ehrlinger/ggrandomforests
