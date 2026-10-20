@@ -1,13 +1,48 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/ehrlinger/ehrlinger.r-universe.dev
 	branch = HEAD
 [submodule "TemporalHazard"]
 	path = TemporalHazard
-	url = https://github.com/ehrlinger/temporalhazard
+	url = https://github.com/ehrlinger/temporal_hazard
+[submodule "boostmtree"]
+	path = boostmtree
+	url = https://github.com/ehrlinger/boostmtree_src
+	branch = v2.0.7-ccf
+	subdir = boostmtree
+[submodule "ggBoostedTrees"]
+	path = ggBoostedTrees
+	url = https://github.com/ehrlinger/ggBoostedTrees
 [submodule "ggRandomForests"]
 	path = ggRandomForests
-	url = https://github.com/ehrlinger/ggrandomforests
-[submodule "l2boost"]
-	path = l2boost
-	url = https://github.com/ehrlinger/l2boost
+	url = https://github.com/ehrlinger/ggRandomForests
+[submodule "hvtiPlotR"]
+	path = hvtiPlotR
+	url = https://github.com/ehrlinger/hvtiPlotR
+[submodule "hvtiR"]
+	path = hvtiR
+	url = https://github.com/ehrlinger/hvtiR
+[submodule "hvtiRbootstrap"]
+	path = hvtiRbootstrap
+	url = https://github.com/ehrlinger/hvtiRbootstrap
+[submodule "hvtiRdatabuild"]
+	path = hvtiRdatabuild
+	url = https://github.com/ehrlinger/hvtiRdatabuild
+[submodule "hvtiRimputation"]
+	path = hvtiRimputation
+	url = https://github.com/ehrlinger/hvtiRimputation
+[submodule "hvtiRlifetables"]
+	path = hvtiRlifetables
+	url = https://github.com/ehrlinger/hvtiRlifetables
+[submodule "hvtiRpropensity"]
+	path = hvtiRpropensity
+	url = https://github.com/ehrlinger/hvtiRpropensity
+[submodule "hvtiRtables"]
+	path = hvtiRtables
+	url = https://github.com/ehrlinger/hvtiRtables
+[submodule "hvtiRtemplates"]
+	path = hvtiRtemplates
+	url = https://github.com/ehrlinger/hvtiRtemplates
+[submodule "hvtiRutilities"]
+	path = hvtiRutilities
+	url = https://github.com/ehrlinger/hvtiRutilities
